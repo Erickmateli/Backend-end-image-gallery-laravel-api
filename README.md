@@ -23,6 +23,11 @@ DB_USERNAME=
 DB_PASSWORD=
 ```
 
+### Migrate database using the following command
+```
+php artisan migrate
+```
+
 #### Start Laravel Project
 
 ```
