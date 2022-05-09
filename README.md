@@ -1,4 +1,4 @@
-## Laravel image gallery API and React.js
+## Running Laravel image gallery API and React.js project
 
 #### Install Packages
 
