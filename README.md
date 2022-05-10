@@ -11,6 +11,8 @@ composer install
 ```
 cp .env.example .env
 ```
+####  Database In use Is MySql 
+Environment in use is XAMPP as a localhost server
 
 #### Set Database Detail
 
